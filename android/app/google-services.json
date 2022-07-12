@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031911541890",
+    "project_id": "primerocomerpushapp",
+    "storage_bucket": "primerocomerpushapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031911541890:android:615ccb90beaab7b6faf89b",
+        "android_client_info": {
+          "package_name": "com.primerocomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031911541890-k2r9kuprjkpf24net65drkha1q6k5l03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgfJYFMJHILBsQZzBqOKBV7Jrg0EIfxYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031911541890-k2r9kuprjkpf24net65drkha1q6k5l03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

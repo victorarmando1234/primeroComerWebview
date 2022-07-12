@@ -123,7 +123,7 @@ export default function App() {
 
 
   if (loanding) {
-    return <Text>cargando</Text>;
+    return <Text>cargando...</Text>;
   }
   return (
     <WebView

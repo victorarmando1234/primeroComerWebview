@@ -40,7 +40,7 @@ export default function App() {
         //console.log("TOKEN:", tokenPushNotification.token);
 
         const res = await axios.put(
-          'https://api.primerocomer.com.mx/v1/Auth/refressTokengoogleClient',
+          'https://api.vimer.mx/Auth/refressTokengoogleClient',
           {
             tokenPushNotification: tokenPushNotification.token,
             id: params.data.id
@@ -89,12 +89,12 @@ export default function App() {
   async function getUrl() {
     setloanding(true)
     const res1 = await axios.get(
-      'https://api.primerocomer.com.mx/v1/url/getUrlClient',
+      'https://api.vimer.mx/url/getUrlClient',
       {
       },
     );
-
-    seturl(res1.data.url);
+    seturl(res1.data.url + "38");
+    // seturl(res1.data.url);
     console.log("ko", res1.data.url);
     setloanding(false)
   }

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "PrimeroComer.app"
-               BlueprintName = "PrimeroComer"
-               ReferencedContainer = "container:PrimeroComer.xcodeproj">
+               BuildableName = "primerocomer.app"
+               BlueprintName = "primerocomer"
+               ReferencedContainer = "container:primerocomer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "PrimeroComerTests.xctest"
-               BlueprintName = "PrimeroComerTests"
-               ReferencedContainer = "container:PrimeroComer.xcodeproj">
+               BuildableName = "primerocomerTests.xctest"
+               BlueprintName = "primerocomerTests"
+               ReferencedContainer = "container:primerocomer.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "PrimeroComer.app"
-            BlueprintName = "PrimeroComer"
-            ReferencedContainer = "container:PrimeroComer.xcodeproj">
+            BuildableName = "primerocomer.app"
+            BlueprintName = "primerocomer"
+            ReferencedContainer = "container:primerocomer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "PrimeroComer.app"
-            BlueprintName = "PrimeroComer"
-            ReferencedContainer = "container:PrimeroComer.xcodeproj">
+            BuildableName = "primerocomer.app"
+            BlueprintName = "primerocomer"
+            ReferencedContainer = "container:primerocomer.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

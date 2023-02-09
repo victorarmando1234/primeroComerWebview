@@ -3,6 +3,7 @@ import { Linking, PermissionsAndroid, Platform } from 'react-native';
 // requests location permission and returns true or false
 export async function requestLocation() {
   try {
+    console.log("llego2");
     const granted = await PermissionsAndroid.request(
       PermissionsAndroid.PERMISSIONS.ACCESS_FINE_LOCATION,
       {
@@ -13,6 +14,7 @@ export async function requestLocation() {
         buttonPositive: 'OK',
       },
     );
+    console.log("granted", granted);
     if (granted === PermissionsAndroid.RESULTS.GRANTED) {
       return true;
     }

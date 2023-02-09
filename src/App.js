@@ -11,6 +11,7 @@ export default function App() {
   const [canGoBack, setcanGoBack] = useState(false);
   const [url, seturl] = useState("http://192.168.0.7:3000/");
   const [loanding, setloanding] = useState(false);
+
   useLocationPermission();
 
 

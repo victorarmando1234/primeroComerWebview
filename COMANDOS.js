@@ -48,7 +48,7 @@ seturl(res1.data.url + "37");
 //Para cambiar nombre
 /*
 
- react-native-rename "SushibyJhonysFood"
+ react-native-rename "Sushiby Jhonys Food"
 
  react-native-rename "SushibyJhonysFood" -b es.minuevo.paquete
 

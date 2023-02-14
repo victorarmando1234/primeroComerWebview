@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1031911541890",
-    "project_id": "primerocomerpushapp",
-    "storage_bucket": "primerocomerpushapp.appspot.com"
+    "project_number": "691292642035",
+    "project_id": "sushiby-jhonys-food",
+    "storage_bucket": "sushiby-jhonys-food.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1031911541890:android:615ccb90beaab7b6faf89b",
+        "mobilesdk_app_id": "1:691292642035:android:d4ecccd492402410dc3586",
         "android_client_info": {
           "package_name": "com.primerocomer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1031911541890-k2r9kuprjkpf24net65drkha1q6k5l03.apps.googleusercontent.com",
+          "client_id": "691292642035-g7e9p6r5ufqutm90dc3g6icfl4ud1kk8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAgfJYFMJHILBsQZzBqOKBV7Jrg0EIfxYM"
+          "current_key": "AIzaSyC5tTx0rNe3TAe37L1XNVQDUf8TEpzKYN0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1031911541890-k2r9kuprjkpf24net65drkha1q6k5l03.apps.googleusercontent.com",
+              "client_id": "691292642035-g7e9p6r5ufqutm90dc3g6icfl4ud1kk8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

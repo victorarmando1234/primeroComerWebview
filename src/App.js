@@ -108,15 +108,22 @@ export default function App() {
 
 
   const handleBackButton = (e) => {
+    WEBVIEW_REF.current.injectJavaScript(`
+      window.dispatchEvent(new Event("ANDROID_BACK_PRESSED"))
+    `);
+
     if (canGoBack) {
       WEBVIEW_REF.current.goBack();
+      console.log("entrando1");
       return true;
+
     }
-    return;
+    return true;
   };
 
   const onNavigationStateChange = (navState) => {
     setcanGoBack(navState.canGoBack);
+    console.log("entrando2");
     console.log("navState.canGoBack", navState.canGoBack);
   };
 
